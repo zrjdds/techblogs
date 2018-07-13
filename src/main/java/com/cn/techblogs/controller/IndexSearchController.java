@@ -8,8 +8,6 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
  
-import com.cn.techblogs.pojo.User;
-
 import net.minidev.json.JSONArray;
 import net.minidev.json.JSONObject;
 
